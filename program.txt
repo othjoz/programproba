@@ -8,3 +8,12 @@ A=5
 B=7
 
 Kiir: A+B
+
+
+Kivonas
+--------
+
+X=9
+Y=1
+
+Kiiratas: X-Y
