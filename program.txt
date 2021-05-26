@@ -1,0 +1,10 @@
+Matematika
+===========
+
+Osszeadas
+----------
+
+A=5
+B=7
+
+Kiir: A+B
