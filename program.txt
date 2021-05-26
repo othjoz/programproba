@@ -6,5 +6,6 @@ Osszeadas
 
 A=5
 B=7
+C=8
 
-Kiir: A+B
+Kiir: A+B+C
