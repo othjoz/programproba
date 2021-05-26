@@ -8,6 +8,7 @@ A=5
 B=7
 C=8
 
+<<<<<<< HEAD
 Kiir: A+B+C
 
 
@@ -28,3 +29,15 @@ Kiir: A+B+C
 
 
 Itt a vege
+=======
+Kiir: A+B
+
+
+Kivonas
+--------
+
+X=9
+Y=1
+
+Kiiratas: X-Y
+>>>>>>> kivonas
